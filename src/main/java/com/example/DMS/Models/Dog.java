@@ -1,7 +1,7 @@
 package com.example.DMS.Models;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 /**
 *
 * @author Roshini Bikkina
